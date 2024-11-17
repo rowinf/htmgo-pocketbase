@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/go-chi/chi/v5 v5.1.0
-	github.com/maddalax/htmgo/framework v1.0.3-0.20241109183230-b234ead96499
+	github.com/maddalax/htmgo/framework v1.0.5
 	github.com/pocketbase/pocketbase v0.22.25
 )
 
